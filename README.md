@@ -9,7 +9,7 @@ I think this is really dangerous, you can create fake applications that behave l
 
 Really this protection sucks and is be used for large companies around the world, Google is only the tip of the iceberg.
 
-We know what kind of idiots protect our data in the cloud:
+We know what kind of "big minds" protect our data in the cloud:
 
 Hacking Parse: [HowToHack85MillonDolarsCompany](https://github.com/JhetoX/HowToHack85MillonDolarsCompany)<br/>
 
