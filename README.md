@@ -1,5 +1,5 @@
-<H1>SpoofPackagesAndSignatures</H1>
-===================================
+SpoofPackagesAndSignatures
+==========================
 
 I always seemed a system of identification and verification of applications and signatures as that https://github.com/JhetoX/HowToHack85MillonDolarsCompany/tree/master/Fix for me Google always do the best job, I always ask this is really good, but if it's so good, you may be hacked or breaking ? 
 
@@ -13,22 +13,22 @@ We know what kind of idiots protect our data in the cloud:
 
 Hacking Parse: [HowToHack85MillonDolarsCompany](https://github.com/JhetoX/HowToHack85MillonDolarsCompany)<br/>
 
-Hacking Amazon: [HowToHack310BillionDollarCompany](https://github.com/JhetoX/HowToHack310BillionDollarCompany)<br/>
+Hacking Amazon: [HowToHack310BillionDollarCompany](https://github.com/JhetoX/HowToHack310BillionDollarCompany)<br/><br/>
 
 
-This POC was developed by me: Jheto Xekri
+This POC was developed by me: Jheto Xekri<br/>
 
 
-You can contact me in:
+You can contact me in:<br/>
 
-Profile web: http://about.me/jheto.xekri
-or by Email: jheto.xekri@outlook.com
-or by Whatsapp: +573122844198
-or by Viber: +573122844198
-or by Skype: jheto.xekri
+Profile web: http://about.me/jheto.xekri<br/>
+or by Email: jheto.xekri@outlook.com<br/>
+or by Whatsapp: +573122844198<br/>
+or by Viber: +573122844198<br/>
+or by Skype: jheto.xekri<br/>
 
-Donations:
+Donations:<br/>
 
-Coinbase: 1NzDu9iuZJPbsyQJxMFtk4YfWPMyVgNea1
-Paypal: jheto.xekri@outlook.com
+Coinbase: 1NzDu9iuZJPbsyQJxMFtk4YfWPMyVgNea1<br/>
+Paypal: jheto.xekri@outlook.com<br/>
 
