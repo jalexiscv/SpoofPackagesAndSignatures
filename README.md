@@ -1,7 +1,7 @@
 SpoofPackagesAndSignatures
 ==========================
 
-I always seemed a system of identification and verification of applications and signatures as that https://github.com/JhetoX/HowToHack85MillonDolarsCompany/tree/master/Fix for me Google always do the best job, I always ask this is really good, but if it's so good, you may be hacked or breaking ? 
+I always seemed a system of identification and verification of applications and signatures as that [Fix Parse](https://github.com/JhetoX/HowToHack85MillonDolarsCompany/tree/master/Fix) for me Google always do the best job, I always ask this is really good, but if it's so good, you may be hacked or breaking ? 
 
 Yes, everything in this world is hackable, no matter who write, as they pay for it, how many devs qualifications do they do this, or few thousand dollars cost them their study, everything is hackable, one must examine the problem and break it.
 
